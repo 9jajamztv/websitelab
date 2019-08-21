@@ -1,0 +1,11 @@
+.jumbotron{
+    background-image:
+  url('city.jpg');
+}
+.col h2{
+    font-size: 1.5rem;
+}
+
+.col{
+    margin-bottom: 30rem;
+}
